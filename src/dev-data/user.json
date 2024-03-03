@@ -1,0 +1,32 @@
+[
+    {
+        "name":"jonas Smith",
+        "age": 30,
+        "active": true,
+        "last_login": "2024-02-05"
+    },
+    {
+        "name":"john doe",
+        "age": 40,
+        "active": true,
+        "last_login": "2024-01-05"
+    },
+    {
+        "name":"emily jones",
+        "age": 20,
+        "active": true,
+        "last_login": "2024-03-01"
+    },
+    {
+        "name":"michael brown",
+        "age": 50,
+        "active": true,
+        "last_login": "2024-01-09"
+    },
+    {
+        "name":"jonas Smith",
+        "age": 33,
+        "active": true,
+        "last_login": "2024-02-27"
+    }
+]
